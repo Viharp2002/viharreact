@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viharreact/static/css/main.7f61d78a.css",
+    "main.js": "/viharreact/static/js/main.5e59210b.js",
+    "static/js/787.719ec76d.chunk.js": "/viharreact/static/js/787.719ec76d.chunk.js",
+    "index.html": "/viharreact/index.html",
+    "main.7f61d78a.css.map": "/viharreact/static/css/main.7f61d78a.css.map",
+    "main.5e59210b.js.map": "/viharreact/static/js/main.5e59210b.js.map",
+    "787.719ec76d.chunk.js.map": "/viharreact/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f61d78a.css",
+    "static/js/main.5e59210b.js"
+  ]
+}
